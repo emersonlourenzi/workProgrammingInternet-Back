@@ -4,8 +4,6 @@ import com.internet2.programming.implementation.product.mapper.ProductMapperImp;
 import com.internet2.programming.implementation.product.model.ProductModelImp;
 import com.internet2.programming.implementation.product.repository.ProductEntity;
 import com.internet2.programming.implementation.product.repository.ProductRepository;
-import com.internet2.programming.implementation.user.mapper.UserMapperImp;
-import com.internet2.programming.implementation.user.repository.UserEntity;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
@@ -14,9 +12,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-// Anotação informa ao spring que está é a classe de serviço
 @Service
-// Anotação cria automaticamente construtor da classe com todos os atributos.
 @AllArgsConstructor
 public class ProductService {
     private ProductRepository productRepository;
@@ -42,21 +38,19 @@ public class ProductService {
     }
 
     public void deleteById(String idProd) throws Exception {
-        if(productRepository.existsById(idProd)) {
+        if (productRepository.existsById(idProd)) {
             productRepository.deleteById(idProd);
-        }
-        else {
+        } else {
             throw new Exception("nonexistent user");
         }
     }
 
     public ProductModelImp update(String idProd, ProductModelImp product) throws Exception {
-        if(productRepository.existsById(idProd)) {
+        if (productRepository.existsById(idProd)) {
             productRepository.deleteById(idProd);
             product.setId(idProd);
             return ProductMapperImp.mapToModel(productRepository.save(ProductMapperImp.mapToEntity(product)));
-        }
-        else {
+        } else {
             throw new Exception("nonexistent user");
         }
     }

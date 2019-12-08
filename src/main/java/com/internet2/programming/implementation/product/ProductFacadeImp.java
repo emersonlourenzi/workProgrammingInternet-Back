@@ -7,11 +7,8 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
-// Anotação informa ao spring que está classe é um componente da aplicação.
 @Component
-// Anotação cria automaticamente construtor da classe com todos os atributos.
 @AllArgsConstructor
-// Classe criada como uma fachada para o serviço, assim, tendo mais segurança em não dar acesso direto a os serviços.
 public class ProductFacadeImp {
     private ProductService productService;
 
