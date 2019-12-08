@@ -15,7 +15,7 @@ import java.util.List;
 public class ProductController {
     private ProductFacadeController productFacadeController;
 
-    @GetMapping
+    @GetMapping()
     public List<ProductResponse> findAll() {
         return productFacadeController.findAll();
     }
