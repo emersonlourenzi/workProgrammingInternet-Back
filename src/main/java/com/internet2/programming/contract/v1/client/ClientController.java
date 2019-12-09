@@ -1,5 +1,6 @@
 package com.internet2.programming.contract.v1.client;
 
+import com.internet2.programming.contract.v1.client.model.ClientRequest;
 import com.internet2.programming.contract.v1.client.model.ClientResponse;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
@@ -23,7 +24,7 @@ public class ClientController {
     }
 
     @PostMapping()
-    public ClientResponse create(@RequestBody ClientResponse client) {
+    public ClientResponse create(@RequestBody ClientRequest client) {
         return facade.create(client);
     }
 }
