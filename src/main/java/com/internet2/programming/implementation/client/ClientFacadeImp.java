@@ -23,4 +23,12 @@ public class ClientFacadeImp {
     public ClientModelImp create(ClientModelImp client) {
         return service.create(client);
     }
+
+    public void deleteById(String id) throws Exception {
+        service.deleteById(id);
+    }
+
+    public ClientModelImp update(String id, ClientModelImp client) throws Exception {
+        return service.update(id, client);
+    }
 }

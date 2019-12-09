@@ -26,4 +26,12 @@ public class ClientFacadeController {
     public ClientResponse create(ClientRequest client) {
         return ClientMapper.mapToContract(facadeImp.create(ClientMapper.mapToImp(client)));
     }
+
+    public void deleteById(String id) throws Exception {
+        facadeImp.deleteById(id);
+    }
+
+    public ClientResponse update(String id, ClientRequest client) throws Exception {
+        return ClientMapper.mapToContract(facadeImp.update(id, ClientMapper.mapToImp(client)));
+    }
 }

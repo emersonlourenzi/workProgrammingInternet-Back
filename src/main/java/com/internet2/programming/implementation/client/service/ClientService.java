@@ -28,13 +28,31 @@ public class ClientService {
         if (!cli.isEmpty()) {
             return ClientMapperImp.mapToModel(repository.findById(id)
                     .orElseThrow(InputMismatchException::new));
-        }
-        else {
+        } else {
             throw new Exception("Client not found. ");
         }
     }
 
     public ClientModelImp create(ClientModelImp client) {
         return ClientMapperImp.mapToModel(repository.save(ClientMapperImp.mapToEntity(client)));
+    }
+
+    public void deleteById(String id) throws Exception {
+        if (repository.existsById(id)) {
+            repository.deleteById(id);
+        } else {
+            throw new Exception("nonexistent client");
+        }
+    }
+
+    public ClientModelImp update(String id, ClientModelImp client) throws Exception {
+        if (repository.existsById(id)) {
+            repository.deleteById(id);
+            client.setId(id);
+            return ClientMapperImp.mapToModel(repository.save(ClientMapperImp.mapToEntity(client)));
+        }
+        else {
+            throw new Exception("nonexistent client");
+        }
     }
 }
