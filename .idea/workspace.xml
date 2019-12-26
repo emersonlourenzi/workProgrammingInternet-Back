@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21b1ca5a-85e1-465f-b91b-c83d220c2c68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/internet2/programming/contract/v1/user/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/internet2/programming/contract/v1/user/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/internet2/programming/contract/v1/user/model/UserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/internet2/programming/contract/v1/user/model/UserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/internet2/programming/implementation/user/repository/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/internet2/programming/implementation/user/repository/UserEntity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UOQrT7WdBMfpPxlFGjKTNzXVhS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/internet2/programming" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emerson\Documents\programming\src\main\java\com\internet2\programming" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProgrammingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="programming.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.internet2.programming.ProgrammingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21b1ca5a-85e1-465f-b91b-c83d220c2c68" name="Default Changelist" comment="" />
+      <created>1575225360926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575225360926</updated>
+      <workItem from="1575225366657" duration="70000" />
+      <workItem from="1575225456911" duration="10103000" />
+      <workItem from="1575312649983" duration="4667000" />
+      <workItem from="1575377488835" duration="2473000" />
+      <workItem from="1575476195361" duration="4752000" />
+      <workItem from="1575491912922" duration="288000" />
+      <workItem from="1575505047845" duration="234000" />
+      <workItem from="1575554110633" duration="2466000" />
+      <workItem from="1575637121644" duration="857000" />
+      <workItem from="1575652964946" duration="1228000" />
+      <workItem from="1575764233821" duration="39000" />
+      <workItem from="1575764291467" duration="2007000" />
+      <workItem from="1575841548018" duration="7649000" />
+      <workItem from="1575898583086" duration="3246000" />
+      <workItem from="1575913869592" duration="2410000" />
+      <workItem from="1575997717051" duration="2475000" />
+      <workItem from="1576172375549" duration="876000" />
+    </task>
+    <task id="LOCAL-00001" summary="Colocado contract clientes">
+      <created>1575843613381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575843613381</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Colocado implementation clientes">
+      <created>1575843873384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575843873384</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Retirei comentários do código.&#10;colocado anotações lombok.">
+      <created>1575845631423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575845631423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="inseridos classes estaticas para mapeamento das requisições.">
+      <created>1575846568262</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575846568262</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inseridos métodos de leitura e salvamento de clientes.">
+      <created>1575849546015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575849546015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inseridos métodos de leitura e salvamento de clientes.">
+      <created>1575849620011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575849620011</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inseridos métodos de edição e exclusão de cliente.">
+      <created>1575904665809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575904665809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Colocado contract clientes" />
+    <MESSAGE value="Colocado implementation clientes" />
+    <MESSAGE value="Retirei comentários do código.&#10;colocado anotações lombok." />
+    <MESSAGE value="inseridos classes estaticas para mapeamento das requisições." />
+    <MESSAGE value="Inseridos métodos de leitura e salvamento de clientes." />
+    <MESSAGE value="Inseridos métodos de edição e exclusão de cliente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Inseridos métodos de edição e exclusão de cliente." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="219" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575764266979">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="320" y="219" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.984@0.0.1280.984" timestamp="1575764266979" />
+    <state x="210" y="86" key="CommitChangelistDialog2" timestamp="1575904664604">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="210" y="86" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575904664604" />
+    <state x="507" y="385" width="532" height="214" key="Github.ShareDialog" timestamp="1575765509502">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="507" y="385" width="532" height="214" key="Github.ShareDialog/0.0.1280.984@0.0.1280.984" timestamp="1575765509502" />
+    <state x="346" y="197" key="Github.UntrackedFilesDialog" timestamp="1575765516254">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="346" y="197" key="Github.UntrackedFilesDialog/0.0.1280.984@0.0.1280.984" timestamp="1575765516254" />
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.0.center" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.0.left" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.0.right" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.1.bottom" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.1.center" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.1.left" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state width="1237" height="263" key="GridCell.Tab.1.right" timestamp="1576004293870">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1576004293870" />
+    <state x="141" y="134" key="SettingsEditor" timestamp="1575225437888">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1575225437888" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1575904672054">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575904672054" />
+  </component>
+</project>

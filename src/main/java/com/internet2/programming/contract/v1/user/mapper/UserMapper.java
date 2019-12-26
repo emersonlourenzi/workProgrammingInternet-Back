@@ -11,6 +11,7 @@ public class UserMapper {
                 .id(userModelImp.getId())
                 .nameUser(userModelImp.getNameUser())
                 .emailUser(userModelImp.getEmailUser())
+                .passUser(userModelImp.getPassUser())
                 .build();
     }
 
